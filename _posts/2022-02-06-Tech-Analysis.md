@@ -2,8 +2,8 @@
 layout: post
 title: Technical Indicators - Pandas-TA
 subtitle: Technical analysis using pandas-ta python library
-#gh-repo: dbogatic
-#gh-badge: [star, fork, follow]
+gh-repo: dbogatic/technical-analysis-pandas-ta
+gh-badge: [star, fork, follow]
 tags: [pandas-ta,technical indicators, technical analysis]
 comments: true
 ---
