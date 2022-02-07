@@ -51,4 +51,4 @@ To install matplotlib, you can type:
 ```python
 python -m pip install -U matplotlib
 ```
-I hope this high level overview of pandas-ta python 3 library was helpful so you will spend less time coding and more time analyzing assets.
+I hope this high level overview of pandas-ta python 3 library was helpful so you will spend less time coding and more time analyzing assets. You can view the complete code in the GitHub [notebook](https://github.com/dbogatic/technical-analysis-pandas-ta/blob/main/technical_indicators.ipynb).
