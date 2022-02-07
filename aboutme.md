@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: 
 ---
+My name is Dragan Bogatic. I am a *Certified Financial Planner (CFP)* professional with background in banking and PEO (HRO) industries.
 
-My name is Inigo Montoya. I have the following qualities:
+ - *Financial planning skills*: Investment Analysis, Portfolio Management, Retirement Planning, Risk Management, Small Business Continuation, Tax Planning.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- *Technical skills*: FinTech, Financial Analysis, Financial Modeling, Statistics, Data Analysis, Python 3, Pandas, PostgreSQL, Machine Learning, Blockchain, NLP.
 
-What else do you need?
+- *HRO skills*: HR Compliance, Medical Benefits, 401k, Workers Comp, Payroll Admin.
 
-### My story
+- *Business development skills*: Prospecting, CRM, Managing Sales Pipeline, Communication, Data Gathering & Analysis, Problem Solving, Solution Presentation, Negotiation.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- *Interests*: Chess, Data Analysis, , Photography, Animation, , Soccer, Gaming
+
+
