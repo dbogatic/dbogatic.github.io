@@ -7,6 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [pandas-ta,technical indicators, technical analysis]
 comments: true
 ---
+![stock-analysis](/assets/img/stock-analysis.jpg)
 
 [Pandas-TA](https://pypi.org/project/pandas-ta/) is a python 3 pandas library that contains more than 130 technical indicators that can be used to analyze any asset by using Open, High, Low, Close, Adj Close, Volume market information structure. You can download asset price history for the specified time interval using [Yahoo! Finance API](https://pypi.org/project/yfinance/). To install the library, type:
 
