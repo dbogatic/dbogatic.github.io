@@ -3,27 +3,25 @@
 The yield curve, a representation of the spread between 10-year and 3-month Treasury yields, has traditionally been viewed as a harbinger of economic recessions when it inverts. However, the unfolding geopolitical conflicts and the Federal Reserve’s monetary policies add layers of complexity to this predictive model.
 
 ## Yield Curve Data:
-As of October 16, 2023, the yield curve inverted, with the 10-year Treasury yield at 4.71%, and the 3-month yield higher. This inversion typically signals a looming recession, but the current US economy and Federal Reserve policies might provide a divergent narrative[^1][^2][^3].
+As of October 16, 2023, the yield curve inverted, with the 10-year Treasury yield at 4.71%, and the 3-month yield higher. This inversion typically signals a looming recession, but the current US economy and Federal Reserve policies might provide a divergent narrative[[1]](https://www.statista.com/)[[2]](https://www.slickcharts.com/)[[3]](https://ycharts.com/).
 
 ## Geopolitical Conflicts:
-Geopolitical tensions, particularly in the Middle East, Russia-Ukraine, and China's economic linkage to these conflicts, have broad implications on global markets and by extension, the US economy[^4][^5][^6][^7][^8].
+Geopolitical tensions, particularly in the Middle East, Russia-Ukraine, and China's economic linkage to these conflicts, have broad implications on global markets and by extension, the US economy[[4]](https://www.reuters.com/)[[5]](https://business.cornell.edu/)[[6]](https://www.fpri.org/)[[7]](https://www.bizjournals.com/)[[8]](https://advisor.visualcapitalist.com/).
 
 ## Fed Monetary Policy:
-The Federal Reserve's policy trajectory, heading towards a tightening stance to curb inflation with several rate decisions lined up for 2024, plays a crucial role in the economic outlook[^9][^10][^11][^12][^13].
+The Federal Reserve's policy trajectory, heading towards a tightening stance to curb inflation with several rate decisions lined up for 2024, plays a crucial role in the economic outlook[[9]](https://www.forbes.com/)[[10]](https://www.reuters.com/)[[11]](https://finance.yahoo.com/)[[12]](https://www.ft.com/)[[13]](https://www.afr.com/).
 
 ## Consumer Debt and Spending:
-Consumer debt levels, escalating to $16.84 trillion in Q2 2023, underlie a portion of consumer spending. While this debt-fueled spending propels economic activity in the short term, the accruing debt could pose substantial risks in the long run[^14][^15][^16][^17][^18].
+Consumer debt levels, escalating to $16.84 trillion in Q2 2023, underlie a portion of consumer spending. While this debt-fueled spending propels economic activity in the short term, the accruing debt could pose substantial risks in the long run[[14]](https://www.experian.com/)[[15]](https://www2.deloitte.com/)[[16]](https://www.newyorkfed.org/)[[17]](https://www.fool.com/).
 
 ## Recession Probability Assessments:
-Various institutions have assessed the likelihood of a US recession in 2024. The heightened geopolitical tensions have led to an increased recession risk, with varying estimates from 15% to 40%[^19][^20][^21][^22].
+Various institutions have assessed the likelihood of a US recession in 2024. The heightened geopolitical tensions have led to an increased recession risk, with varying estimates from 15% to 40%[[18]](https://www.yardeni.com/)[[19]](https://www.goldmansachs.com/)[[20]](https://www.bankofamerica.com/)[[21]](https://www.phoenixeconomist.com/).
 
 ## 2024 Outlook:
 The conflicting signals from the yield curve, geopolitical tensions, Federal Reserve’s policies, and growing consumer debt provide a complex backdrop for economic forecasts. The actions of the Fed in 2024, particularly its rate decisions, will be pivotal in shaping the recession probability.
 
 ## Conclusion:
 The yield curve remains a significant recession indicator. However, the geopolitical conflicts, Federal Reserve's policy stance, burgeoning consumer debt, and their interplay, create a nuanced economic landscape. Monitoring these evolving dynamics will be crucial in assessing the US economic outlook for 2024 and beyond.
-
----
 
 ## References:
 [^1]: [Statista: U.S. treasury yield curve 2023](https://www.statista.com/)
