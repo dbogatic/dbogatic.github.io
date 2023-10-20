@@ -1,4 +1,12 @@
-# The Yield Curve, Geopolitical Conflicts, and US Economic Outlook Amid Federal Policies
+---
+layout: post
+title: The Yield Curve, Geopolitical Conflicts, and US Economic Outlook Amid Federal Policies
+subtitle: Technical analysis using pandas-ta python library
+gh-repo: dbogatic.github.io/posts/2023-10-19-Recession_Probability.md
+gh-badge: [star, fork, follow]
+tags: [yield curve,economic recession]
+comments: true
+---
 
 The yield curve, a representation of the spread between 10-year and 3-month Treasury yields, has traditionally been viewed as a harbinger of economic recessions when it inverts. However, the unfolding geopolitical conflicts and the Federal Reserve’s monetary policies add layers of complexity to this predictive model.
 
@@ -23,6 +31,7 @@ The conflicting signals from the yield curve, geopolitical tensions, Federal Res
 ## Conclusion:
 The yield curve remains a significant recession indicator. However, the geopolitical conflicts, Federal Reserve's policy stance, burgeoning consumer debt, and their interplay, create a nuanced economic landscape. Monitoring these evolving dynamics will be crucial in assessing the US economic outlook for 2024 and beyond.
 
+
 ## References:
 1. [Statista: U.S. treasury yield curve 2023](https://www.statista.com/)
 2. [SlickCharts: US Treasury Yield Curve Chart](https://www.slickcharts.com/)
@@ -45,4 +54,5 @@ The yield curve remains a significant recession indicator. However, the geopolit
 19. [Goldman Sachs: Economic Outlook](https://www.goldmansachs.com/)
 20. [Bank of America: Economic Outlook](https://www.bankofamerica.com/)
 21. [Phoenix Economist: Economic Outlook](https://www.phoenixeconomist.com/)
+
 
