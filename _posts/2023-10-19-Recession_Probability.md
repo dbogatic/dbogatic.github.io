@@ -23,8 +23,6 @@ The conflicting signals from the yield curve, geopolitical tensions, Federal Res
 ## Conclusion:
 The yield curve remains a significant recession indicator. However, the geopolitical conflicts, Federal Reserve's policy stance, burgeoning consumer debt, and their interplay, create a nuanced economic landscape. Monitoring these evolving dynamics will be crucial in assessing the US economic outlook for 2024 and beyond.
 
-...
-
 ## References:
 1. [Statista: U.S. treasury yield curve 2023](https://www.statista.com/)
 2. [SlickCharts: US Treasury Yield Curve Chart](https://www.slickcharts.com/)
