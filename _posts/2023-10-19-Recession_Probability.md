@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Yield Curve, Geopolitical Conflicts, and US Economic Outlook Amid Federal Policies
-subtitle: Technical analysis using pandas-ta python library
+subtitle:
 gh-repo: dbogatic/dbogatic.github.io/posts/2023-10-19-Recession_Probability.md
 gh-badge: [star, fork, follow]
 tags: [yield curve,economic recession]
