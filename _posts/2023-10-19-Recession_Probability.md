@@ -7,6 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [yield curve,economic recession]
 comments: true
 ---
+![dalle_world](/assets/img/dalle_world.png)
 
 The yield curve, a representation of the spread between 10-year and 3-month Treasury yields, has traditionally been viewed as a harbinger of economic recessions when it inverts. However, the unfolding geopolitical conflicts and the Federal Reserve’s monetary policies add layers of complexity to this predictive model.
 
