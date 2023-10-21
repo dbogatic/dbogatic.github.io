@@ -26,7 +26,7 @@ The Federal Reserve's policy trajectory, heading towards a tightening stance to 
 Consumer debt levels, escalating to $16.84 trillion in Q2 2023, underlie a portion of consumer spending. While this debt-fueled spending propels economic activity in the short term, the accruing debt could pose substantial risks in the long run[^6].
 
 ## Recession Probability Assessments:
-Various institutions have assessed the likelihood of a US recession in 2024[^7][^8].
+Various institutions have assessed the likelihood of a US recession in 2024[^7].
 
 ## 2024 Outlook:
 The conflicting signals from the yield curve, geopolitical tensions, Federal Reserve’s policies, and growing consumer debt provide a complex backdrop for economic forecasts. The actions of the Fed in 2024, particularly its rate decisions, will be pivotal in shaping the recession probability.
@@ -42,7 +42,6 @@ The yield curve remains a significant recession indicator. However, the geopolit
 [^4]: [FPRI Events: Russia's War in Ukraine: Implications for China](https://www.fpri.org/event/2022/russias-war-in-ukraine-implications-for-china/)
 [^5]: [Forbes: Markets See Measured Fed Rate Cuts In 2024](https://www.forbes.com/sites/simonmoore/2023/10/17/markets-see-measured-fed-rate-cuts-in-2024/?sh=129742321741)
 [^6]: [Experian: Consumer Debt Grows to $16.84 Trillion in Q2 2023](https://www.experian.com/blogs/ask-experian/research/consumer-debt-review-update/#:~:text=Consumers%20accumulated%20an%20additional%20%2473,owe%20%2416.84%20trillion%20to%20lenders.)
-[^7]: [Biz Journals: Will US see a recession in 2024? Here's what one Phoenix economist](https://www.bizjournals.com/phoenix/news/2023/10/09/economic-forecast-phoenix-chamber-2024.html)
-[^8]: [Visual Capitalist: U.S. Economic Forecasts: What’s the Probability of a Recession in 2024?](https://www.visualcapitalist.com/united-states-recession-in-2024-economic-forecasts/)
+[^7]: [Visual Capitalist: U.S. Economic Forecasts: What’s the Probability of a Recession in 2024?](https://www.visualcapitalist.com/united-states-recession-in-2024-economic-forecasts/)
 
 
