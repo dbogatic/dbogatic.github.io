@@ -37,7 +37,7 @@ The yield curve remains a significant recession indicator. However, the geopolit
 
 ## References:
 [^1]: [Statista: U.S. treasury yield curve 2023](https://www.statista.com/statistics/1058454/yield-curve-usa/#:~:text=Treasury%20yield%20curve%20in%20the%20U.S.%20October%202023&text=As%20of%20October%2016%2C%202023,year%20bond%20was%205.09%20percent.)
-[^2]: [Reuters: Global markets watch for fallout as Middle East tensions rise](https://www.reuters.com/markets/ripple-effect-seen-markets-globally-middle-east-conflict-2023-10-15//)
+[^2]: [Reuters: Global markets watch for fallout as Middle East tensions rise](https://www.reuters.com/article/israel-palestinians-markets-idCAKBN31F01V)
 [^3]: [Cornell SC Johnson: War in Ukraine and Its Impact on the Chinese Economy](https://business.cornell.edu/hub/2022/04/19/war-ukraine-impact-chinese-economy/)
 [^4]: [FPRI Events: Russia's War in Ukraine: Implications for China](https://www.fpri.org/event/2022/russias-war-in-ukraine-implications-for-china/)
 [^5]: [Forbes: Markets See Measured Fed Rate Cuts In 2024](https://www.forbes.com/sites/simonmoore/2023/10/17/markets-see-measured-fed-rate-cuts-in-2024/?sh=129742321741)
