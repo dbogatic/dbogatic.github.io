@@ -26,7 +26,7 @@ The Federal Reserve's policy trajectory, heading towards a tightening stance to 
 Consumer debt levels, escalating to $16.84 trillion in Q2 2023, underlie a portion of consumer spending. While this debt-fueled spending propels economic activity in the short term, the accruing debt could pose substantial risks in the long run[^6].
 
 ## Recession Probability Assessments:
-Various institutions have assessed the likelihood of a US recession in 2024[^7].
+Various institutions have assessed the likelihood of a US recession in 2024. The heightened geopolitical tensions have led to an increased recession risk, with varying estimates from 15% to 40%[^7].
 
 ## 2024 Outlook:
 The conflicting signals from the yield curve, geopolitical tensions, Federal Reserve’s policies, and growing consumer debt provide a complex backdrop for economic forecasts. The actions of the Fed in 2024, particularly its rate decisions, will be pivotal in shaping the recession probability.
