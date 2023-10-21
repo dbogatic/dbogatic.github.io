@@ -4,7 +4,7 @@ title: The Yield Curve, Geopolitical Conflicts, and US Economic Outlook Amid Fed
 subtitle:
 gh-repo: dbogatic/dbogatic.github.io/posts/2023-10-19-Recession_Probability.md
 gh-badge: [star, fork, follow]
-tags: [yield curve,economic recession]
+tags: [yield curve, recession, geopolitics, consumer debt]
 comments: true
 ---
 ![dalle_world](/assets/img/dalle_world.png)
