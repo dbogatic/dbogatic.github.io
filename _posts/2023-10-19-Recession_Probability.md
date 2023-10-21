@@ -9,8 +9,6 @@ comments: true
 ---
 ![dalle_world](/assets/img/dalle_world.png)
 
-# The Yield Curve, Geopolitical Conflicts, and US Economic Outlook Amid Federal Policies
-
 The yield curve, representing the spread between 10-year and 3-month Treasury yields, has traditionally been an indicator of economic recessions when inverted. However, unfolding geopolitical conflicts and Federal Reserve’s monetary policies add layers of complexity to this predictive model.
 
 ## Yield Curve Data:
